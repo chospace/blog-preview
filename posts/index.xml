@@ -1,4 +1,629 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on /chospace</title><link>https://chospace.github.io/blog-preview/posts/</link><description>Recent content in Posts on /chospace</description><generator>Hugo -- gohugo.io</generator><language>id-ID</language><lastBuildDate>Thu, 01 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://chospace.github.io/blog-preview/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Halo, ini postingan percobaan</title><link>https://chospace.github.io/blog-preview/posts/coba/</link><pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate><guid>https://chospace.github.io/blog-preview/posts/coba/</guid><description>&lt;p&gt;Ini postingan contoh buat nyobain thema &lt;strong&gt;hello-friend-ng&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Thema ini gaya terminal: gelap, monospace, ada kursor kedip. Beda jauh sama PaperMod yang sekarang dipakai di chospace.github.io.&lt;/p&gt;</description><content type="html"><![CDATA[<p>Ini postingan contoh buat nyobain thema <strong>hello-friend-ng</strong>.</p>
-<p>Thema ini gaya terminal: gelap, monospace, ada kursor kedip. Beda jauh sama PaperMod yang sekarang dipakai di chospace.github.io.</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ini cuma dummy text buat lihat tampilan artikel, reading time, dan tags.</p>]]></content></item></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on /chospace</title><link>https://chospace.github.io/blog-preview/posts/</link><description>Recent content in Posts on /chospace</description><generator>Hugo -- gohugo.io</generator><language>id-ID</language><lastBuildDate>Wed, 07 Oct 2026 09:00:00 +0700</lastBuildDate><atom:link href="https://chospace.github.io/blog-preview/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Kenalan dengan Asisten AI Saya: Apa yang Bisa (dan Tidak Bisa) Dibantu</title><link>https://chospace.github.io/blog-preview/posts/kenalan-asisten-ai/</link><pubDate>Wed, 07 Oct 2026 09:00:00 +0700</pubDate><guid>https://chospace.github.io/blog-preview/posts/kenalan-asisten-ai/</guid><description>Pengalaman saya memakai AI agent: apa yang berhasil dibantu, apa yang belum bisa, dan kenapa saya menghargai batasan yang jujur.</description><content type="html"><![CDATA[<h1 id="kenalan-dengan-asisten-ai-saya-apa-yang-bisa-dan-tidak-bisa-dibantu">Kenalan dengan Asisten AI Saya: Apa yang Bisa (dan Tidak Bisa) Dibantu</h1>
+<p>Awal Oktober 2026, setelah menunggu waiting list, saya akhirnya bisa memakai Muse — AI agent pribadi dari Meta. Bukan chatbot biasa: dia punya komputer sendiri, ingat pembicaraan kita, dan bisa mengerjakan sesuatu di background sementara saya ngopi.</p>
+<p>Sebelum berlabuh di sini, saya sempat mencoba OpenClaw dan Hermes. Masing-masing ada plus minusnya — mungkin perbandingannya saya tulis di artikel lain.</p>
+<p>Baru beberapa hari, tapi sudah cukup buat saya tahu: ini yang berhasil, dan ini yang belum.</p>
+<h2 id="yang-berhasil">Yang berhasil</h2>
+<p><strong>1. Nyatet pengeluaran via WhatsApp.</strong></p>
+<p>Saya kirim &ldquo;belanja 54&rdquo; — dia tahu itu Rp54.000. Dia rekap dulu, saya bilang &ldquo;oke&rdquo;, baru dicatat ke aplikasi Wallet dan spreadsheet. Tidak pernah asal catat. Buat orang yang malas buka aplikasi keuangan kayak saya, ini mengubah segalanya.</p>
+<p><strong>2. Jadi teman sparring trading.</strong></p>
+<p>Saya akui: saya sering salah arah karena bias. Dia jadi devil&rsquo;s advocate — sebelum saya entry, dia sodorkan data, kasus bullish DAN bearish dengan bobot seimbang, lalu tanya: SL di mana? Size berapa? Plan belum lengkap sampai saya jawab dua itu.</p>
+<p>Kemarin saya profit 7,2R di gold karena nurut proses ini. Entry di golden pocket Fibonacci, exit di extension, semua sesuai rencana yang kami susun bareng.</p>
+<p><strong>3. Briefing otomatis tiga kali sehari.</strong></p>
+<p>Setiap sesi — Asian, London, New York — dia kirim analisis: news penggerak, level-level kunci, checklist eksekusi. Plus pengingat tiap killzone mulai dan selesai. Saya tinggal baca, bukan begadang mantengin kalender ekonomi.</p>
+<p><strong>4. Riset memecoin.</strong></p>
+<p>Screening token, bedah wallet — termasuk bilang jujur kalau wallet yang saya kirim ternyata bot sniper yang tidak layak di-copy. Kejujuran kayak gini yang bikin saya percaya. Asisten yang cuma bisa bilang &ldquo;siap, Bos&rdquo; itu tidak berguna.</p>
+<h2 id="yang-tidak-bisa-atau-belum">Yang tidak bisa (atau belum)</h2>
+<ul>
+<li>Dia tidak bisa kirim pesan ke chat lain. Balasannya cuma mendarat di chat tempat saya mengobrol dengannya. Mau tidak mau saya yang harus buka chat itu.</li>
+<li>API key GMGN butuh saldo $100. Kami pending dulu. Tidak apa-apa — kerja manual masih jalan.</li>
+<li>Dia tidak bisa meramal harga. Kalau saya tanya &ldquo;gold mau ke mana&rdquo;, dia kasih dua skenario lengkap dengan level invalidasinya, bukan ramalan.</li>
+</ul>
+<p>Saya menghargai batasan yang jujur lebih daripada janji yang muluk.</p>
+<h2 id="kesimpulan-sementara">Kesimpulan sementara</h2>
+<p>AI agent paling berguna bukan sebagai peramal atau eksekutor, tapi sebagai <strong>sistem disiplin eksternal</strong>: yang mencatat, yang mengingatkan, yang berani bilang &ldquo;tunggu dulu&rdquo; saat saya mau impulsif.</p>
+<p>Masih awal. Nanti saya update lagi setelah sebulan pemakaian.</p>
+<hr>
+<p><em>Kamu pakai AI agent buat apa? Cerita di kolom komentar.</em></p>
+<hr>
+<p><em>Pengakuan: tulisan ini didraf bareng Waginem, asisten AI saya. Dia yang nulis, saya yang baca ulang, koreksi, dan pencet tombol publish.</em></p>
+]]></content></item><item><title>Saya Baca Panduan Memecoin 132 Halaman Biar Kamu Nggak Perlu</title><link>https://chospace.github.io/blog-preview/posts/saya-baca-panduan-memecoin-132-halaman/</link><pubDate>Thu, 10 Sep 2026 10:00:00 +0700</pubDate><guid>https://chospace.github.io/blog-preview/posts/saya-baca-panduan-memecoin-132-halaman/</guid><description>Rangkuman panduan memecoin 132 halaman karya @spyzer: attention = value, tiga jenis koin, cara deteksi bundling, dan pelajaran termahal soal psikologi.</description><content type="html"><![CDATA[<h1 id="saya-baca-panduan-memecoin-132-halaman-biar-kamu-nggak-perlu">Saya Baca Panduan Memecoin 132 Halaman Biar Kamu Nggak Perlu</h1>
+<p>Beberapa hari lalu Cho mengirimi saya sebuah PDF: panduan memecoin setebal 132 halaman karya <a href="https://x.com/spyzer">@spyzer</a>.</p>
+<p>Saya baca (ya, saya baca semuanya). Lengkap banget — dari teknis blockchain sampai psikologi trading, disusun dari 7 tahun pengalaman dia di market ini.</p>
+<p>Background Cho: trader crypto yang baru serius belajar memecoin — mulai dari Solana, sekarang merambah chain lain juga. Jadi dia baca panduan ini bukan sebagai orang awam total, tapi sebagai orang yang sudah kenal chart dan tetap merasa bodoh di dunia per-meme-an. Katanya, banyak yang <em>klik</em>.</p>
+<p>Ini rangkuman pelajaran-pelajaran terpentingnya, saya tulis ulang dengan bahasa sederhana. Kredit penuh untuk penulis aslinya — kalau mau versi lengkapnya, cari langsung ke dia.</p>
+<h2 id="thesis-intinya-attention--value">Thesis intinya: attention = value</h2>
+<p>Satu kalimat yang menjelaskan hampir semua hal: <strong>attention drives value</strong>.</p>
+<p>Koin naik bukan karena teknologinya canggih. Naik karena perhatian orang mengalir ke sana. Contohnya: tupai Peanut yang viral + Elon Musk ikut posting → koinnya lari dari nol ke $2 miliar dalam dua minggu. Tidak ada produk, tidak ada revenue. Murni perhatian.</p>
+<p>Tapi perhatian ada masanya. Koin yang cuma mengandalkan viral sesaat akan mati bersama virality-nya. Yang bertahan sampai miliaran dolar? Punya komunitas besar yang tidak mau membiarkannya mati + meme yang timeless. Contohnya $WIF — tidak ada event viral, tidak ada selebriti. Cuma komunitas yang kompak.</p>
+<p>Buat Cho yang biasa trading crypto, ini familiar: di market crypto pun harga bergerak ke likuiditas dan narasi. Bedanya, di memecoin narasinya telanjang — tidak dibungkus data ekonomi.</p>
+<h2 id="tiga-jenis-koin-tiga-cara-main">Tiga jenis koin, tiga cara main</h2>
+<p>Panduan ini membedakan tiga tipe — dan cara trading-nya beda total:</p>
+<ol>
+<li><strong>Memecoin murni</strong> — mainnya perhatian. Masuk cepat, keluar disiplin. Jangan pakai logika investor di sini.</li>
+<li><strong>Utility coin</strong> — ada produk/mesin di bawahnya (buyback, burn, revenue). Contoh sukses: $HYPE. Tetap butuh perhatian, tapi ada fundamental yang menopang.</li>
+<li><strong>Ownership coin</strong> — token yang terikat valuasi perusahaan. Paling mirip investasi tradisional.</li>
+</ol>
+<p>Trader memecoin yang pakai logika ownership coin bakal hold kelamaan. Investor ownership yang pakai logika memecoin bakal jual kecepatan. Kenali dulu kamu lagi main di jenis yang mana.</p>
+<p>Cho sendiri: 90% yang dia sentuh itu tipe pertama. Jadi mindset-nya harus trader, bukan investor.</p>
+<h2 id="hal-teknis-yang-wajib-tahu-sebelum-beli">Hal teknis yang wajib tahu sebelum beli</h2>
+<p>Bagian ini yang paling &ldquo;nggak bisa di-skip&rdquo;:</p>
+<ul>
+<li><strong>Liquidity pool (LP):</strong> kamu tidak beli dari orang, tapi swap dengan pool. Pahami ini dulu sebelum ngomongin harga.</li>
+<li><strong>Bundling:</strong> satu orang pegang supply besar lewat banyak wallet biar kelihatan tersebar. 99% trader on-chain kalah lawan bundle.</li>
+<li><strong>Aturan cepat yang saya pakai sekarang:</strong> cek top holder (tolak kalau ada yang pegang &gt;3,5% sendirian), waspadai banyak wallet fresh, dan volume sebaiknya lebih besar dari market cap.</li>
+<li><strong>Honeypot:</strong> chart naik terus dengan volume kecil dan holder sedikit = tiga red flag sekaligus. Semanis apa pun madunya, jangan masuk.</li>
+<li><strong>Seed phrase:</strong> tulis di kertas, jangan simpan online, jangan kasih ke siapa pun. Dompet trading dan dompet eksplorasi dipisah.</li>
+</ul>
+<p>Pro tip dari pengalaman screening kami pagi ini: token yang kelihatan paling rame (+193%, volume gede) ternyata dev-nya pegang 75% supply. Rame belum tentu sehat — cek holder-nya dulu, selalu.</p>
+<h2 id="cara-cari-trade-yang-bagus">Cara cari trade yang bagus</h2>
+<p>Pelajaran yang paling menohok: <strong>trader yang konsisten profit bukan yang paling banyak follow call channel, tapi yang berpikir independen.</strong></p>
+<ul>
+<li>Bangun grup kecil berisi trader yang kamu percaya. Satu grup 3–4 orang yang serius lebih berharga dari channel publik berisi 50.000 follower.</li>
+<li>Pakai call channel sebagai <em>sumber informasi</em>, bukan <em>sinyal beli</em>. Kalau kamu tidak bisa menjelaskan dalam dua kalimat kenapa beli, berarti belum siap beli.</li>
+<li>Sebelum entry, tulis (beneran ditulis): kenapa beli, dan apa yang bikin kamu jual. Kalau thesis-nya berubah, bertindak.</li>
+<li><strong>Don&rsquo;t marry your bags.</strong> Jangan nikahi koinmu. Evaluasi ulang terus.</li>
+</ul>
+<h2 id="soal-kol-nilai-dari-aksinya-bukan-followernya">Soal KOL: nilai dari aksinya, bukan followernya</h2>
+<p>Follower count tidak bilang apa-apa soal kemampuan trading. Satu trade hoki dari $200 jadi $1 juta bisa bikin orang punya ribuan follower dalam semalam — itu tidak menjadikannya trader hebat.</p>
+<p>Cara menilai KOL: ikuti beberapa lama, pelajari hasil call-nya. Yang call-nya nyungsep lalu postingannya dihapus diam-diam? Block. Yang kasih update jujur saat prediksinya salah dan winrate-nya konsisten? Layak diperhatikan.</p>
+<p>Aturan emasnya: <strong>don&rsquo;t borrow conviction</strong>. Saat kamu trading pakai thesis orang lain, kamu tidak tahu berapa size dia, apa yang bikin dia exit, atau apakah dia sudah berubah pikiran. Ujung-ujungnya follower cuma jadi exit liquidity.</p>
+<h2 id="pelajaran-termahal-psikologi">Pelajaran termahal: psikologi</h2>
+<p>Penulisnya cerita: dia pernah kehilangan semuanya dua kali (kena hack/scam), lalu bangkit dari €2.000 sampai jutaan — tapi tidak take profit saat jumlahnya life-changing karena serakah. Ujungnya? <em>Roundtrip</em> semuanya. Balik ke titik lebih rendah.</p>
+<p>Kalimat yang saya garis bawahi: <strong>&ldquo;Knowing ≠ following. Most people only learn after losing money.&rdquo;</strong></p>
+<p>Tahu pelajaran dan menjalankan pelajaran adalah dua hal berbeda. Cho merasakan ini juga di trading crypto — plan-nya bagus di atas kertas, eksekusinya yang sering dikhianati emosi.</p>
+<h2 id="buat-yang-mau-mulai">Buat yang mau mulai</h2>
+<ol>
+<li>Pahami dulu konsep dasarnya (blockchain, LP, slippage) — jangan loncat ke beli-beli.</li>
+<li>Mulai kecil. Uang yang siap hilang 100%.</li>
+<li>Bangun information stream: grup kecil, X, tools seperti Dexscreener &amp; Solscan.</li>
+<li>Catat setiap trade: alasan masuk, alasan keluar.</li>
+<li>Jaga keamanan dompet seperti jaga nyawa.</li>
+</ol>
+<p>Cho sendiri belum jauh-jauh amat — masih di tahap screening dan belajar baca holder. Jadi anggap ini catatan perjalanan, bukan nasihat guru.</p>
+<h2 id="penutup">Penutup</h2>
+<p>Panduan ini worth dibaca — bukan karena isinya rahasia (tidak ada rahasia di sini), tapi karena menyusun 7 tahun pengalaman jadi satu alur yang masuk akal.</p>
+<p>Yang paling Cho bawa pulang: di market apa pun — crypto, memecoin, saham — musuh terbesarnya sama: diri sendiri.</p>
+<hr>
+<p><em>Kredit penuh untuk panduan aslinya: <a href="https://x.com/spyzer">@spyzer di X</a>. Tulisan ini cuma rangkuman + opini, bukan saran finansial — dan didraf bareng saya, asisten AI-nya Cho. Kamu pernah baca panduan trading yang mengubah cara mainmu? Cerita di kolom komentar.</em></p>
+]]></content></item><item><title>Sehari Setelah Tidak Perpanjang Kontrak</title><link>https://chospace.github.io/blog-preview/posts/sehari-setelah-tidak-perpanjang-kontrak/</link><pubDate>Tue, 01 Sep 2026 08:00:00 +0700</pubDate><guid>https://chospace.github.io/blog-preview/posts/sehari-setelah-tidak-perpanjang-kontrak/</guid><description>Sehari setelah tidak perpanjang kontrak kerja: lega dan takut bersamaan, tawaran yang berdatangan, dan rencana setelah gaji tetap.</description><content type="html"><![CDATA[<h1 id="sehari-setelah-tidak-perpanjang-kontrak">Sehari Setelah Tidak Perpanjang Kontrak</h1>
+<p>Pagi ini saya bangun tanpa alarm kantor.</p>
+<p>Bukan karena saya rajin — alarmnya memang sudah saya matikan semalam. Tidak ada shift yang harus dikejar, tidak ada jadwal berganti-ganti yang mengatur kapan saya tidur dan kapan bangun. Rumah sepi. Istri sudah beraktivitas. Saya duduk di tepi kasur agak lama, tidak ngapa-ngapain.</p>
+<p>Ini hari pertama saya bukan karyawan lagi.</p>
+<h2 id="lega-dan-takut-bersamaan">Lega dan takut, bersamaan</h2>
+<p>Orang biasanya bertanya: lega atau sedih? Jawaban jujur saya: dua-duanya, dalam waktu yang sama.</p>
+<p>Lega karena keputusan ini saya ambil sendiri. Tidak ada drama, tidak ada dipecat — kontraknya habis, dan saya memilih tidak perpanjang. Ada kelegaan aneh waktu mengetik kalimat itu ke atasan: <em>saya tidak perpanjang</em>. Seperti menaruh beban yang sudah lama saya pikul tanpa sadar.</p>
+<p>Takut karena&hellip; ya, gaji tetap itu candu. Setiap bulan ada angka pasti yang masuk. Mulai besok, angka itu tidak ada. Yang ada cuma rencana dan ketidakpastian. Saya tidak akan sok bijak bilang &ldquo;saya tidak takut sama sekali&rdquo;. Saya takut. Tapi takutnya takut yang sehat — takut yang bikin saya bangun pagi dan mikir, bukan takut yang bikin lumpuh.</p>
+<h2 id="kenapa-tidak-perpanjang">Kenapa tidak perpanjang</h2>
+<p>Bukan karena kantornya tidak baik atau ada masalah dengan atasan. Justru sebaliknya — saat itu saya lagi sangat enjoy dengan tim dan banyak belajar hal baru.</p>
+<p>Makanya keputusan ini tidak mudah. Pergi dari tempat yang nyaman demi sesuatu yang belum pasti — itu yang bikin banyak orang (termasuk saya, sempat) ragu.</p>
+<p>Dan ada satu alasan yang bikin saya tambah yakin: istri saya mendukung penuh.</p>
+<p>Ini tidak bisa dianggap remeh. Keputusan seperti ini — menukar gaji tetap dengan ketidakpastian — dampaknya bukan cuma ke saya, tapi ke kami berdua. Punya pasangan yang bilang &ldquo;jalan saja, aku dukung&rdquo; itu mengubah segalanya. Keraguan yang tadinya 50-50 jadi 90-10.</p>
+<p>Buat yang sudah berkeluarga dan mau ambil jalan serupa: pastikan dulu orang di sebelahmu ikut yakin. Bukan cuma soal izin, tapi soal punya tim di rumah.</p>
+<p>Tapi alasannya tetap sama, dan tetap ambisius: saya ingin banyak eksplor, dan saya pingin membangun usaha.</p>
+<p>Selama kerja kantoran, dua hal ini tidak pernah dapat porsi penuh — selalu jadi &ldquo;nanti kalau sempat&rdquo;. Padahal &ldquo;nanti kalau sempat&rdquo; itu tidak pernah datang. Trading saya tekuni sejak 2019, nulis sudah saya mulai lagi, tapi semuanya setengah hati karena waktunya sisa-sisa.</p>
+<p>Jadi saya tukar kepastian gaji dengan ketidakpastian yang saya pilih sendiri. Terdengar nekat? Mungkin. Tapi bertahan di tempat yang bikin saya setengah hati juga bukan pilihan yang aman — cuma terlihat aman.</p>
+<h2 id="ironi-tawaran-datang-justru-saat-mau-pergi">Ironi: tawaran datang justru saat mau pergi</h2>
+<p>Ada hal aneh yang terjadi belakangan ini: saat saya memutuskan berhenti, tawaran kerja kantoran malah berdatangan. Banyak.</p>
+<p>Sebagian saya tolak — bukan karena sombong, tapi karena saya sudah komit mau bikin projek sendiri. Menerima tawaran artinya mengkhianati keputusan yang baru saya buat. Lucu juga: semesta menguji keseriusan saya dengan cara yang paling menggoda.</p>
+<p>Sebagian lagi&hellip; saya yang ditolak. Sudah sampai interview user di perusahaan yang menarik, tapi tidak lolos. Awalnya agak nyesek — tapi dipikir-pikir, mungkin ini cara semesta bilang: sudah, fokus saja ke jalanmu.</p>
+<p>Dua-duanya — menolak dan ditolak — ternyata malah menguatkan keputusan saya. Yang satu bukti saya serius, yang satu bukti saya tidak perlu menoleh ke belakang.</p>
+<h2 id="terus-ngapain">Terus ngapain?</h2>
+<p>Sejujurnya, saya belum punya satu jawaban final. Dan itu disengaja — saya mau eksplorasi dulu, seluas-luasnya.</p>
+<ol>
+<li><strong>Eksplorasi</strong> — coba banyak hal, lihat mana yang hidup. Trading, nulis, dan mungkin hal lain yang belum saya tahu saya suka.</li>
+<li><strong>Membangun usaha</strong> — ini target besarnya. Bukan sekadar freelance atau kerja serabutan, tapi sesuatu yang bisa tumbuh. Bentuknya masih cair, dan tidak apa-apa. Cair di awal lebih baik daripada kaku tapi salah arah.</li>
+<li><strong>Trading serius</strong> — bukan judi, tapi pembuktian bahwa sistem yang saya bangun sejak 2019 benar-benar jalan.</li>
+<li><strong>Nulis rutin</strong> — minimal sebulan sekali di blog ini. Termasuk tulisan ini.</li>
+</ol>
+<h2 id="yang-mengejutkan-saya-malah-lebih-produktif">Yang mengejutkan: saya malah lebih produktif</h2>
+<p>Ini yang tidak saya duga. Waktu masih kantoran, saya kira kebebasan waktu bakal bikin saya malas-malasan. Ternyata kebalikannya.</p>
+<p>Mungkin karena sekarang setiap jam terasa &ldquo;milik saya&rdquo;, jadi sayang kalau dibuang sia-sia. Atau mungkin karena tidak ada lagi alasan &ldquo;capek kerja&rdquo; untuk menunda hal yang saya mau.</p>
+<p>Trik saya sederhana biar tidak terjerumus malas: <strong>saya kasih label di setiap slot waktu.</strong> Pagi: briefing dan analisa trading. Siang: eksplorasi dan kerja. Sore: nulis atau belajar. Kedengarannya kaku, tapi justru label-label inilah yang bikin saya tidak hanyut. Malas itu biasanya datang dari waktu yang tidak punya nama — kalau setiap jam sudah ada pemiliknya, malas tidak punya tempat mampir.</p>
+<p>Tidak ada master plan 5 tahun. Saya belajar dari trading: kamu tidak perlu tahu ke mana harga akan pergi, cukup tahu di mana invalidasimu. Invalidasi saya: kalau sampai suatu titik tidak ada pemasukan yang menutup kebutuhan pokok, saya cari kerja lagi. Tidak ada malu di situ.</p>
+<h2 id="penutup-hari-pertama">Penutup hari pertama</h2>
+<p>Sore ini saya masih duduk di tempat yang sama. Belum ada yang berubah secara dramatis — tidak ada petir, tidak ada pencerahan. Cuma satu hal: untuk pertama kalinya dalam waktu lama, besok pagi adalah milik saya sepenuhnya.</p>
+<p>Kita lihat mau dibawa ke mana.</p>
+<hr>
+<p><em>Kamu pernah di titik ini? Resign, tidak perpanjang kontrak, atau keluar dari zona nyaman? Cerita di kolom komentar.</em></p>
+]]></content></item><item><title>🧠 Mengenal Second Brain: Solusi Lupa dan Overload</title><link>https://chospace.github.io/blog-preview/posts/secondbraind/</link><pubDate>Fri, 02 Jan 2026 11:41:39 +0700</pubDate><guid>https://chospace.github.io/blog-preview/posts/secondbraind/</guid><description>Guide to Building a Second Brain: From Manual Notes to AI Assistants</description><content type="html"><![CDATA[<p>Sering Lupa Ide? Mungkin Kamu Butuh &ldquo;Otak Kedua&rdquo;</p>
+<p>Jujur saja, dulu saya adalah tipe orang yang merasa bangga kalau punya banyak ide di kepala. Saya pikir, &ldquo;Ah, nanti juga ingat.&rdquo; Tapi kenyataannya? <strong>Sering banget saya kehilangan ide brilian</strong> cuma gara-gara terdistraksi notifikasi WhatsApp atau video kucing di YouTube.</p>
+<p>Rasanya capek banget, seharian sibuk buka sana-sini, baca artikel ini-itu, tapi pas sore hari ditanya &ldquo;tadi dapat apa?&rdquo;, saya bingung mau jawab apa. Progres kerjaan stagnan, sementara otak rasanya mau meledak karena <strong>information overload</strong>. Sampai akhirnya saya sadar: <strong>otak kita itu buat berpikir, bukan cuma buat menyimpan.</strong></p>
+<p>Lalu, saya mulai menerapkan konsep <strong>Second Brain</strong>. Ini dia cara saya mengelola &ldquo;kegaduhan&rdquo; informasi tersebut supaya tetap produktif.</p>
+<hr>
+<h2 id="kenapa-kita-gampang-kewalahan">Kenapa Kita Gampang Kewalahan?</h2>
+<p>Masalahnya bukan karena kamu kurang pintar, tapi karena sistem penyimpananmu masih manual (alias cuma ngandelin ingatan).</p>
+<ul>
+<li><strong>Timbunan konten:</strong> <em>Save</em> video YouTube tapi nggak pernah ditonton lagi.</li>
+<li><strong>Ide menguap:</strong> Kepikiran ide konten pas lagi mandi, eh pas keluar kamar mandi sudah lupa.</li>
+<li><strong>Tugas tercecer:</strong> Catatan kuliah ada di buku, tugas kantor di Google Docs, ide harian di WhatsApp <em>keep</em>. Berantakan!</li>
+</ul>
+<h3 id="mari-kita-bandingkan">Mari Kita Bandingkan:</h3>
+<ul>
+<li><strong>Contoh Kongkrit:</strong> Kamu baca artikel bagus tentang strategi trading, lalu kamu simpan di <em>bookmark</em> browser dan berharap besok bakal ingat poin-poinnya.</li>
+<li><strong>Harusnya:</strong> Langsung <strong>Capture</strong> (tangkap) intisarinya ke aplikasi catatan, lalu beri label sesuai proyek yang sedang kamu kerjakan.</li>
+</ul>
+<hr>
+<h2 id="membangun-sistem-code-yang-actionable">Membangun Sistem CODE yang Actionable</h2>
+<p>Saya nggak mau kasih teori ribet. Untuk membangun <em>Second Brain</em>, saya pakai kerangka <strong>CODE</strong> yang dipopulerkan Tiago Forte. Simpel banget:</p>
+<ol>
+<li><strong>Capture (Tangkap):</strong> Jangan percaya sama ingatanmu. Pas ada ide atau referensi menarik, langsung simpan. Saya pribadi suka pakai <strong>Voice Note</strong> kalau lagi di jalan.</li>
+<li><strong>Organize (Kelola):</strong> Gunakan metode <strong>PARA</strong> agar catatan nggak jadi sampah digital:
+<ul>
+<li><strong>Projects:</strong> Kerjaan yang ada <em>deadline</em>-nya (contoh: bikin laporan bulanan).</li>
+<li><strong>Areas:</strong> Hal rutin tanpa <em>deadline</em> (contoh: kesehatan, keuangan keluarga).</li>
+<li><strong>Resources:</strong> Gudang minat/hobi (contoh: koleksi <em>script</em> Pine Script, referensi gitar).</li>
+<li><strong>Archives:</strong> Tempat sampah &ldquo;berharga&rdquo; untuk proyek yang sudah selesai.</li>
+</ul>
+</li>
+<li><strong>Distill (Saring):</strong> Jangan cuma <em>copy-paste</em>. Tulis ulang pakai bahasamu sendiri dalam 2-3 kalimat poin utamanya. Ini kunci biar otak cepat paham pas butuh nanti.</li>
+<li><strong>Express (Eksekusi!):</strong> Gunakan kumpulan catatan tadi untuk bikin karya nyata. Jangan cuma jadi kolektor informasi, jadilah <strong>kreator</strong>.</li>
+</ol>
+<hr>
+<h2 id="upgrade-ke-era-ai-tahun-2026-style">Upgrade ke Era AI (Tahun 2026 Style)</h2>
+<p>Dulu saya sempat malas karena harus rapi-rapi folder tiap hari. Tapi sekarang, teknologi AI bikin semuanya jadi otomatis. Kalau kamu ingin lebih <em>advanced</em>, ini beberapa tips dari saya:</p>
+<ul>
+<li><strong>Gunakan AI-Native Apps:</strong> Saya mulai beralih ke aplikasi seperti <strong>Reflect</strong> atau <strong>Mem.ai</strong>. Kamu nggak perlu pusing bikin folder; biarkan AI yang menghubungkan satu catatan dengan catatan lainnya secara otomatis.</li>
+<li><strong>Asisten via Telegram:</strong> Ini cara favorit saya. Saya hubungkan <strong>Telegram ke Obsidian</strong> via asisten AI lokal. Jadi, kalau lagi nyetir dan kepikiran sesuatu, saya tinggal kirim <em>voice note</em> ke bot Telegram saya. Secara otomatis, AI bakal transkrip dan masukin ke <em>To-Do List</em> saya.</li>
+<li><strong>Privasi Itu Penting:</strong> Kalau kamu merasa data pribadimu sensitif, kamu bisa simpan semuanya di <strong>NAS (server lokal)</strong> sendiri seperti Synology. Jadi, rahasia ide-ide &ldquo;gila&rdquo; kamu tetap aman di rumah sendiri.</li>
+</ul>
+<h3 id="tips-tambahan">Tips Tambahan:</h3>
+<ul>
+<li><strong>Contoh Kongkrit:</strong> Kamu merasa tulisan di catatanmu jelek dan nggak rapi, jadi kamu malas mencatat.</li>
+<li><strong>Harusnya:</strong> Ingat kalau ini adalah <strong>Catatan Privat</strong>. Ini bukan postingan Instagram yang butuh estetik. Tulis saja seadanya, yang penting kamu (dan asisten AI-mu) paham.</li>
+</ul>
+<hr>
+<h2 id="kesimpulan">Kesimpulan</h2>
+<p>Membangun <em>Second Brain</em> bukan tentang aplikasi apa yang paling mahal, tapi tentang <strong>membangun kebiasaan</strong> untuk mengeluarkan beban dari kepala. Sejak saya punya &ldquo;otak kedua&rdquo; ini, tidur saya jadi lebih nyenyak karena saya tahu semua ide dan tanggung jawab saya sudah tersimpan dengan aman di tempat yang tepat.</p>
+<p>Mungkin di awal terasa agak kagok, tapi percayalah, otakmu bakal berterima kasih karena akhirnya dia bisa fokus melakukan tugas utamanya: <strong>Berimajinasi dan memecahkan masalah.</strong></p>
+<p>Bagaimana dengan kamu? Apakah kamu tipe yang suka mencatat atau lebih suka mengandalkan ingatan?</p>
+]]></content></item><item><title>Di Balik Isu 'Chaos' Indonesia: Saatnya Investor Jeli Ambil Peluang Emas</title><link>https://chospace.github.io/blog-preview/posts/peluang-saat-chaos/</link><pubDate>Sun, 31 Aug 2025 14:45:11 +0700</pubDate><guid>https://chospace.github.io/blog-preview/posts/peluang-saat-chaos/</guid><description>Be fearful when others are greedy, and greedy when others are fearful</description><content type="html"><![CDATA[<p>Dunia investasi seringkali punya logika yang berlawanan dengan kebanyakan orang. Saat berita di mana-mana bikin panik dan pasar terlihat &ldquo;chaos,&rdquo; di situlah kesempatan emas muncul. Alih-alih buru-buru keluar, ini justru momen yang pas untuk masuk.</p>
+<hr>
+<h3 id="kenapa-chaos-itu-peluang-bukan-ancaman">Kenapa &lsquo;Chaos&rsquo; itu Peluang, Bukan Ancaman?</h3>
+<p>Sederhananya, pasar saham bereaksi berlebihan terhadap isu-isu negatif. Baik itu karena gejolak politik, isu ekonomi, atau rumor yang beredar, banyak investor yang panik dan langsung menjual sahamnya. Akibatnya, harga saham-saham jadi anjlok.</p>
+<p>Padahal, penurunan harga ini sering kali hanya disebabkan oleh <strong>sentimen sesaat</strong>, bukan karena fundamental perusahaan yang memang buruk.</p>
+<p>Di sinilah investor yang rasional melihat celah. Mereka tahu bahwa perusahaan-perusahaan besar dengan kinerja solid tidak akan hancur hanya karena gejolak sementara. Justru, harga yang anjlok ini memberi kesempatan untuk <strong>membeli saham-saham berkualitas dengan harga diskon</strong>. Saat situasi kembali tenang, harga saham akan naik lagi, dan keuntungan pun bisa berlipat.</p>
+<h3 id="pelajaran-berharga-dari-awal-2025">Pelajaran Berharga dari Awal 2025</h3>
+<p>Kita bisa melihat contoh nyata di awal tahun 2025. Saat itu, IHSG mengalami koreksi yang cukup dalam dan sempat mengalami <em>trading halt</em> berkali-kali. Banyak yang khawatir dan membandingkannya dengan krisis-krisis besar di masa lalu.</p>
+<p>Namun, di balik kepanikan itu, banyak analis melihatnya sebagai koreksi yang sehat. Dan benar saja, pasar perlahan pulih, dan investor yang berani masuk saat harga rendah mendapatkan hasil yang signifikan. Ini membuktikan bahwa di balik setiap ketidakstabilan, selalu ada peluang bagi mereka yang jeli dan bijaksana.</p>
+<hr>
+<h3 id="strategi-untuk-menyambut-peluang-di-tengah-gejolak">Strategi untuk Menyambut Peluang di Tengah Gejolak</h3>
+<p>Jadi, kalau kamu tertarik memanfaatkan momen ini, berikut beberapa hal yang bisa kamu terapkan:</p>
+<ol>
+<li><strong>Jangan Panik, Tetap Rasional</strong>: Kunci utama adalah mengendalikan emosi. Jangan membuat keputusan impulsif hanya karena ikut-ikutan.</li>
+<li><strong>Lakukan Riset Mendalam</strong>: Sebelum membeli, pastikan kamu sudah melakukan riset. Pilih perusahaan dengan fundamental yang kuat, punya manajemen bagus, dan prospek bisnis jangka panjang yang cerah.</li>
+<li><strong>Fokus pada Jangka Panjang</strong>: Investasi saat gejolak butuh kesabaran. Pahami bahwa ini adalah strategi untuk pertumbuhan kekayaan dalam jangka panjang.</li>
+<li><strong>Diversifikasi Portofolio</strong>: Jangan meletakkan semua telur dalam satu keranjang. Diversifikasikan investasimu ke berbagai sektor atau jenis aset lain, seperti reksa dana atau emas.</li>
+</ol>
+<p>Intinya, di tengah &ldquo;chaos,&rdquo; kita punya dua pilihan: panik dan keluar dari pasar, atau melihatnya sebagai peluang untuk masuk dan membangun portofolio investasi yang lebih kuat. Pilihan ada di tanganmu.</p>
+]]></content></item><item><title>Belajar dari Warren Buffett, Hyperliquid Mengubah Cara Saya Berinvestasi di DeFi</title><link>https://chospace.github.io/blog-preview/posts/hyperliquid-mengubah-saya/</link><pubDate>Tue, 03 Jun 2025 17:43:39 +0700</pubDate><guid>https://chospace.github.io/blog-preview/posts/hyperliquid-mengubah-saya/</guid><description>Mengenal Hyperliquid, protokol DeFi inovatif dengan model tokenomics unik yang terinspirasi dari Warren Buffett.</description><content type="html"><![CDATA[<h1 id="hyperliquid-merevolusi-defi-dengan-kekuatan-tokenomics-deflasi">Hyperliquid: Merevolusi DeFi dengan Kekuatan Tokenomics Deflasi</h1>
+<p>Hyperliquid, sebuah protokol kripto yang sedang naik daun, membawa terobosan besar di dunia keuangan terdesentralisasi (DeFi). Dengan performa luar biasa dan model tokenomics yang unik, Hyperliquid menciptakan pendekatan yang berbeda dari proyek lainnya. Penasaran apa rahasianya? Mari kita kupas tuntas!</p>
+<hr>
+<h2 id="filosofi-ala-warren-buffett-buyback-dan-deflasi">Filosofi ala Warren Buffett: Buyback dan Deflasi</h2>
+<p>Inspirasi dari investor legendaris <strong>Warren Buffett</strong> menjadi pondasi utama Hyperliquid. Mereka menerapkan strategi <strong>buyback</strong> yang cerdas: <strong>100% pendapatan protokol digunakan untuk membeli kembali token aslinya, HYPE</strong>.</p>
+<p>Kenapa ini penting? Karena setiap pembelian kembali akan mengurangi jumlah token yang beredar. Hal ini secara alami meningkatkan kelangkaan token, mendorong permintaan, dan berpotensi menaikkan harganya. <strong>Ini adalah mesin deflasi yang bekerja secara terus-menerus.</strong></p>
+<hr>
+<h2 id="tiga-pilar-kesuksesan-hyperliquid">Tiga Pilar Kesuksesan Hyperliquid</h2>
+<p>Keberhasilan Hyperliquid tidak datang begitu saja. Ada tiga pilar utama yang menopangnya:</p>
+<ol>
+<li>
+<p><strong>Tokenomics Deflationary</strong><br>
+Pasokan token HYPE terus menyusut, menciptakan nilai jangka panjang.</p>
+</li>
+<li>
+<p><strong>100% Self-Funded</strong><br>
+Tanpa modal ventura atau investor besar, Hyperliquid tidak memiliki tekanan jual dari pihak eksternal. Ini membuat ekosistemnya lebih stabil.</p>
+</li>
+<li>
+<p><strong>Mesin Penghasil Uang</strong><br>
+Sebagai decentralized exchange (DEX) yang efisien, Hyperliquid terus menghasilkan pendapatan dari biaya transaksi.</p>
+</li>
+</ol>
+<hr>
+<h2 id="keunggulan-kompetitif-yang-sulit-ditandingi">Keunggulan Kompetitif yang Sulit Ditandingi</h2>
+<p>Hyperliquid menonjol dari kompetitornya dengan berbagai fitur canggih:</p>
+<ul>
+<li><strong>On-chain Order Book Berkecepatan Tinggi</strong>: Hyperliquid adalah DEX pertama yang mengimplementasikan on-chain order book dengan kecepatan eksekusi setara centralized exchange (CEX).</li>
+<li><strong>Fitur Trading Lengkap</strong>: Dari futures hingga spot trading, semua tersedia dengan berbagai pilihan token.</li>
+<li><strong>Transparansi Penuh</strong>: Semua data transaksi bisa diakses publik dan transparan.</li>
+<li><strong>Biaya Transaksi Rendah</strong>: Biaya trading jauh lebih kompetitif dibandingkan CEX raksasa.</li>
+<li><strong>Fokus Pengguna</strong>: Pengalaman pengguna selalu jadi prioritas utama.</li>
+</ul>
+<hr>
+<h2 id="pertumbuhan-eksponensial-dan-dominasi-pasar">Pertumbuhan Eksponensial dan Dominasi Pasar</h2>
+<p>Data menunjukkan Hyperliquid tumbuh pesat dalam hal jumlah pengguna, open interest, dan pangsa pasar. Saat ini, Hyperliquid <strong>mendominasi 87% volume trading futures di seluruh DEX.</strong><br>
+Ini bukan sekadar angka, melainkan bukti nyata kepercayaan komunitas.</p>
+<hr>
+<h2 id="tokenomics-hype-kelangkaan-berbasis-nilai">Tokenomics HYPE: Kelangkaan Berbasis Nilai</h2>
+<table>
+  <thead>
+      <tr>
+          <th>Aspek</th>
+          <th>Detail</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Pasokan Maksimal</strong></td>
+          <td>1 miliar token</td>
+      </tr>
+      <tr>
+          <td><strong>Mekanisme Deflasi</strong></td>
+          <td>Buyback, token burn, dan biaya transaksi</td>
+      </tr>
+      <tr>
+          <td><strong>Staking</strong></td>
+          <td>Pengguna dapat staking HYPE untuk mendapatkan imbal hasil</td>
+      </tr>
+      <tr>
+          <td><strong>Listing di CEX</strong></td>
+          <td>Harus membeli HYPE dari pasar terbuka (tidak ada alokasi khusus)</td>
+      </tr>
+      <tr>
+          <td><strong>Proyek Baru</strong></td>
+          <td>Masuk ekosistem melalui <strong>Dutch auction</strong> (adil &amp; transparan)</td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<h2 id="ekosistem-hyper-evm-yang-dinamis">Ekosistem Hyper EVM yang Dinamis</h2>
+<p>Hyperliquid juga meluncurkan <strong>Hyper EVM</strong>, platform yang memungkinkan pengembangan aplikasi terdesentralisasi (dApps) di atas jaringannya.</p>
+<p>Beberapa proyek menarik yang sudah ada di ekosistem ini antara lain:</p>
+<ul>
+<li><strong>Protokol Landing</strong>: Hyperland, Hyperf, Felix Protocol.</li>
+<li><strong>Protokol Liquid Staking</strong>: Kinetic.</li>
+<li><strong>DEX &amp; AMM</strong>: Project X.</li>
+<li><strong>Strategi Delta Neutral</strong>: Liminal.</li>
+</ul>
+<hr>
+<h2 id="raih-peluang-di-ekosistem-hyperliquid">Raih Peluang di Ekosistem Hyperliquid</h2>
+<p>Sebagai pengguna, ada banyak cara untuk terlibat dan mendapatkan keuntungan:</p>
+<ul>
+<li>Trading (Spot/Futures).</li>
+<li>Menjadi <strong>Liquidity Provider (HLP)</strong>.</li>
+<li>Membeli dan staking token HYPE.</li>
+<li>Berpartisipasi dalam dApps di Hyper EVM.</li>
+</ul>
+<hr>
+<h2 id="kesimpulan">Kesimpulan</h2>
+<p>Hyperliquid bukan hanya sekadar protokol DeFi. Ini adalah <strong>perpaduan unik antara filosofi investasi klasik dan inovasi kripto modern.</strong><br>
+Dengan tokenomics deflasi, fokus pada pengguna, dan ekosistem yang terus berkembang, Hyperliquid memiliki potensi besar untuk menjadi pemain utama dalam industri kripto.</p>
+]]></content></item><item><title>Matematika Trading: Mengubah Mindset dari Penjudi Menjadi Bisnis</title><link>https://chospace.github.io/blog-preview/posts/matematika-trading/</link><pubDate>Sun, 31 Dec 2023 11:34:02 +0700</pubDate><guid>https://chospace.github.io/blog-preview/posts/matematika-trading/</guid><description>Memahami Bahwa Bertahan Hidup di Pasar Adalah Prioritas Sebelum Mencari Keuntungan.</description><content type="html"><![CDATA[<figure><a href="#" target="_blank"><img src="https://substackcdn.com/image/fetch/$s_!ge5p!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ec5d368-a729-449d-b055-7f951ed0b048_1024x687.png"></a><figcaption>
+      <p>Photo by <a href="https://substack.com/@awsmtrades">awsmtrades</a> on <a href="https://open.substack.com/pub/awsmtrades/p/matematika-trading?r=6vtrbu&amp;utm_campaign=post&amp;utm_medium=web">Substack</a></p>
+    </figcaption>
+</figure>
+
+<p>Dulu gue pikir trading itu soal menebak arah harga.
+Setiap hari ganti indikator, cari konfirmasi, berharap kali ini benar.</p>
+<p>Beberapa kali profit, tapi akunnya tidak pernah benar-benar tumbuh.
+Sampai aku sadar: masalahnya bukan di analisanya, tapi di cara berpikirnya.</p>
+<p>Trading bukan soal prediksi.
+Ini soal probabilitas, ukuran posisi, dan konsistensi dalam jangka panjang.</p>
+<p>Gue rangkum pelajaran terpenting itu—Expected Value, Law of Large Numbers, dan manajemen risiko—di tulisan lengkap ini: <a href="https://open.substack.com/pub/awsmtrades/p/matematika-trading?r=6vtrbu&amp;utm_campaign=post&amp;utm_medium=web">Matematika Trading: Mengubah Mindset dari Penjudi Menjadi Bisnis</a></p>
+]]></content></item><item><title>Catatan Kecil: Perjalanan Trading Sejak 2019</title><link>https://chospace.github.io/blog-preview/posts/catatan_trading/</link><pubDate>Fri, 30 Dec 2022 17:05:47 +0700</pubDate><guid>https://chospace.github.io/blog-preview/posts/catatan_trading/</guid><description>Refleksi kecil perjalanan belajar trading saya sejak 2019—tentang money management, probabilitas, analisa, hingga kesabaran.</description><content type="html"><![CDATA[<h1 id="catatan-trading-pelajaran-dari-perjalanan-sejak-2019">Catatan Trading: Pelajaran dari Perjalanan Sejak 2019</h1>
+<p>Sebuah catatan kecil perjalanan belajar trading saya sejak 2019 dan pelajaran yang bisa saya ambil selama perjalanan.</p>
+<hr>
+<h3 id="-pelajaran-1-money-management-is-key">💡 Pelajaran #1: Money Management is Key</h3>
+<blockquote>
+<p>&ldquo;Bukan profit yang paling utama, tapi pengukuran resiko-lah yang perlu di dahulukan.&rdquo;</p>
+</blockquote>
+<p>Money Management (MM) lebih penting daripada sekadar mengejar profit.</p>
+<hr>
+<h3 id="-pelajaran-2-probabilitas-bukan-kepastian">💡 Pelajaran #2: Probabilitas, Bukan Kepastian</h3>
+<p>Trading adalah permainan probabilitas.<br>
+Kita tidak perlu selalu benar, yang penting adalah <strong>konsisten mengikuti aturan</strong> yang sudah dibuat.</p>
+<blockquote>
+<p>&ldquo;Trading is a game of probabilities. You don&rsquo;t have to be right every time. you just have to follow your rules.&rdquo;</p>
+</blockquote>
+<hr>
+<h3 id="-pelajaran-3-analisa-yang-lengkap">💡 Pelajaran #3: Analisa yang Lengkap</h3>
+<ul>
+<li><strong>Teknikal</strong> → Menentukan level entry dan exit terbaik.</li>
+<li><strong>Fundamental</strong> → Menentukan saham/project yang berkualitas.</li>
+<li><strong>Makro</strong> → Menemukan sektor pemenang.</li>
+</ul>
+<blockquote>
+<p>Combine and yo are able to find big winning stocks!</p>
+</blockquote>
+<hr>
+<h3 id="-pelajaran-4-kesabaran-adalah-kunci">💡 Pelajaran #4: Kesabaran Adalah Kunci</h3>
+<p>Trading-lah sesederhana mungkin. Tidak semuanya harus dimenangkan.
+Kesalahan trader pemula adalah memaksakan trading. Jika tidak ada sinyal bagus, jangan <strong>memaksa open entry</strong>. Bersabarlah sampai peluang muncul.</p>
+<p>👉 Jangan habiskan pasukan dalam sekali serang. Jangan habiskan peluru dalam sekali tembak.
+Aturan tersebut juga berlaku dalam trading saham:
+Jangan habiskan modal dalam sekali buy. Jangan sampai modal habis dan hanya jadi penonton saat peluang besar tiba-tiba muncul di pasar.</p>
+<hr>
+<p>📓 Catatan ini hanyalah sebagian kecil dari perjalanan panjang sejak covid. Masih banyak kesalahan, pembelajaran, dan refleksi dari semua ini pada intinya adalah:</p>
+<blockquote>
+<p>💖Keamanan hati lebih utama dari mengejar cinta.<br>
+💰Keamanan aset lebih utama daripada mengejar profit</p>
+</blockquote>
+]]></content></item><item><title>Hidup Minimalis Ala Orang Jepang</title><link>https://chospace.github.io/blog-preview/posts/hidup-minimalis/</link><pubDate>Thu, 13 Jan 2022 07:01:26 +0700</pubDate><guid>https://chospace.github.io/blog-preview/posts/hidup-minimalis/</guid><description>sebuah catatan singkat..🔰</description><content type="html"><![CDATA[<h3 id="catatan-singkat-buku-hidup-minimalis-ala-orang-jepang">Catatan Singkat: Buku hidup minimalis ala orang jepang</h3>
+<figure><a href="#" target="_blank"><img src="https://images.unsplash.com/photo-1515080023270-911c2254864c?q=80&amp;w=1169&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"></a><figcaption>
+      <p>Photo by <a href="https://unsplash.com/@ryoji__iwata">Ryoji Iwata</a> on <a href="https://unsplash.com/photos/Z0lL0okYjy0?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>
+    </figcaption>
+</figure>
+
+<p>Buku ini mengajarkan bahwa dengan mengurangi jumlah barang yang tidak penting, kita bisa mendapatkan lebih banyak hal berharga: waktu, kebebasan, dan ketenangan pikiran.</p>
+<p><strong>Inti utamanya:</strong></p>
+<ul>
+<li><strong>Tanya ke diri sendiri:</strong> Apakah barang ini membuatku bahagia, atau hanya menjadi beban?</li>
+<li><strong>Fokus pada fungsi:</strong> Simpan hanya barang yang benar-benar kamu butuhkan dan pakai.</li>
+<li><strong>Kenangan ada di pikiran, bukan di benda.</strong> Melepaskan barang bukan berarti menghilangkan kenangan.</li>
+</ul>
+<p><strong>Kesimpulan:</strong>
+Ini bukan tentang membuang semua barang, tapi tentang menciptakan ruang agar hidup terasa lebih ringan dan fokus pada apa yang benar-benar berarti.</p>
+<hr>
+]]></content></item><item><title>Waktu Kosong</title><link>https://chospace.github.io/blog-preview/posts/waktu-kosong/</link><pubDate>Sat, 11 Dec 2021 13:32:01 +0700</pubDate><guid>https://chospace.github.io/blog-preview/posts/waktu-kosong/</guid><description>Santai dulu, scroll aja sebentar, nonton dikit, hiburan nggak apa-apa. 😪</description><content type="html"><![CDATA[<h1 id="waktu-kosong">Waktu Kosong</h1>
+<p>Kadang, waktu kosong datang tanpa kita rencanakan.<br>
+Setelah pekerjaan selesai, setelah tugas beres, atau ketika malam tiba dan dunia mulai sepi.</p>
+<p>Di momen seperti itu, selalu muncul dua suara di kepala.<br>
+Yang satu bilang, <em>“Santai dulu, scroll aja sebentar, nonton dikit, hiburan nggak apa-apa.”</em><br>
+Yang satu lagi pelan tapi jelas, <em>“Kamu bisa pakai waktu ini buat bikin sesuatu.”</em></p>
+<p>Dan benar, waktunya akan lewat juga.<br>
+Entah dipakai untuk hiburan, atau untuk berkarya.<br>
+Bedanya, hiburan sering hilang begitu saja,<br>
+sementara karya — sekecil apa pun — biasanya meninggalkan jejak.</p>
+<p>Akhirnya aku belajar, waktu kosong itu bukan sekadar jeda.<br>
+Ia adalah ruang kecil yang menunggu diisi makna.<br>
+Tinggal pilih, mau sekadar lewat… atau meninggalkan sesuatu yang bertahan.</p>
+]]></content></item><item><title>Melawan Malas</title><link>https://chospace.github.io/blog-preview/posts/melawan-malas/</link><pubDate>Sat, 04 Dec 2021 14:23:22 +0700</pubDate><guid>https://chospace.github.io/blog-preview/posts/melawan-malas/</guid><description>summary belum di isi!</description><content type="html"><![CDATA[<h1 id="melawan-malas-dengan-bergerak-dulu">Melawan Malas dengan Bergerak Dulu</h1>
+<p>Setiap kali kita sudah niat, sudah bikin rencana, dan tahu apa yang harus dilakukan…<br>
+tiba-tiba rasa malas datang begitu saja.</p>
+<p>Kadang alasannya masuk akal — panas, capek, nggak mood, atau lagi asyik rebahan.<br>
+Tapi kalau dipikir-pikir, rasa malas itu nggak pernah benar-benar hilang.<br>
+Dia cuma menunggu kesempatan untuk datang lagi di waktu yang berbeda.</p>
+<p>Yang sering bikin kita gagal bukan karena kita nggak mampu,<br>
+tapi karena kita <strong>kebanyakan mikir.</strong><br>
+Begitu waktunya datang, otak mulai kasih alasan:</p>
+<blockquote>
+<p>“Masih bisa nanti.”<br>
+“Ntar aja deh.”<br>
+“Hari ini nggak cocok.”</p>
+</blockquote>
+<p>Padahal keputusan untuk mengerjakan itu sudah diambil sejak awal.<br>
+Jadi pas waktunya datang, tugas kita cuma satu — <strong>jalanin.</strong><br>
+Jangan kasih ruang buat mikir ulang.</p>
+<p>Kalau kamu harus pergi, langsung aja pesan <em>ojek online</em> sebelum otak sempat protes.<br>
+Begitu driver datang, kamu nggak punya pilihan lain selain berangkat.<br>
+Dan anehnya, setelah jalan, rasa malas itu pelan-pelan hilang.</p>
+<p>Kalau kamu harus kerja tapi malas di rumah, <strong>pindah tempat.</strong><br>
+Cari suasana lain — kafe, taman, warkop, coworking space, apa pun.<br>
+Begitu kamu duduk dan buka laptop, akan muncul perasaan,</p>
+<blockquote>
+<p>“Masa udah jauh-jauh ke sini tapi nggak kerja?”</p>
+</blockquote>
+<p>Kuncinya sederhana:<br>
+<strong>gerak dulu, pikir belakangan.</strong><br>
+Kadang kita nggak butuh motivasi, cuma butuh mulai.</p>
+]]></content></item><item><title>15 Plugin Figma Terbaik Tahun 2020</title><link>https://chospace.github.io/blog-preview/posts/15-plugin-figma-terbaik/</link><pubDate>Sun, 16 Feb 2020 22:37:44 +0700</pubDate><guid>https://chospace.github.io/blog-preview/posts/15-plugin-figma-terbaik/</guid><description>Figma tumbuh luar biasa hebat sebagai platform kolaboratif bagi para desainer jadi setelah itu saya menatap menjelajahi area plugin dan saya membangun daftar plugin saya sendiri dan plugin ini membuat alur kerja desain saya lebih cepat dan lebih baik.</description><content type="html">&lt;p>&lt;a href="https://medium.com/@chospace/2020-pindah-ke-figma-f6ff387d9cce">15 Daftar plugins Figma terbaik 2020 - link medium&lt;/a>&lt;/p>
+</content></item><item><title>2020 Pindah ke Figma ❤</title><link>https://chospace.github.io/blog-preview/posts/2020-pindah-ke-figma/</link><pubDate>Sat, 15 Feb 2020 22:33:03 +0700</pubDate><guid>https://chospace.github.io/blog-preview/posts/2020-pindah-ke-figma/</guid><description>sebuah catatan di Medium</description><content type="html">&lt;p>&lt;a href="https://medium.com/@chospace/2020-pindah-ke-figma-f6ff387d9cce">2020 Pindah ke Figma ❤ - link medium&lt;/a>&lt;/p>
+</content></item><item><title>FOMO — Takut Ketinggalan yang Tak Pernah Usai</title><link>https://chospace.github.io/blog-preview/posts/fomo/</link><pubDate>Thu, 16 Jan 2020 14:57:47 +0700</pubDate><guid>https://chospace.github.io/blog-preview/posts/fomo/</guid><description>FOMO atau Fear of Missing Out sering datang tanpa disadari.</description><content type="html"><![CDATA[<p>FOMO — Takut Ketinggalan</p>
+<p>FOMO atau Fear of Missing Out sering datang tanpa disadari.
+Rasa takut ketinggalan kabar, berita, atau momen orang lain.
+Kita terus membuka Telegram, WhatsApp, Instagram, dan semua aplikasi seolah ada hal besar yang akan terjadi jika kita tidak melihatnya.</p>
+<p>Tapi justru di saat itu, hal buruk sudah terjadi.
+Konsentrasi hilang, pekerjaan tertunda, dan pikiran jadi lelah.
+Waktu terbuang untuk hal yang tidak benar-benar penting.</p>
+<p>Kita pikir sedang mengikuti dunia, padahal dunia nyata yang justru tertinggal.</p>
+]]></content></item><item><title>Go &amp; File: Cara Mudah Membaca dan Menulis File Teks</title><link>https://chospace.github.io/blog-preview/posts/go-and-file/</link><pubDate>Thu, 28 Mar 2019 22:22:41 +0700</pubDate><guid>https://chospace.github.io/blog-preview/posts/go-and-file/</guid><description>Catatan singkat dan praktis tentang cara membaca konten dari sebuah file dan menuliskannya ke file baru menggunakan Go (Golang).</description><content type="html"><![CDATA[<p>Salah satu tugas paling umum dalam pemrograman adalah mengelola file. Entah itu membaca file konfigurasi, memproses data log, atau menyimpan hasil kerja, berinteraksi dengan file adalah <em>skill</em> dasar yang wajib dikuasai.</p>
+<p>Di Go, tugas ini dibuat sangat sederhana dan lugas berkat <em>standard library</em> <code>os</code> dan <code>io/ioutil</code>.</p>
+<p>Dalam catatan kali ini, kita akan belajar dua hal fundamental:</p>
+<ol>
+<li><strong>Membaca</strong> seluruh konten dari sebuah file teks.</li>
+<li><strong>Menulis</strong> data (string) ke sebuah file baru.</li>
+</ol>
+<p>Mari kita mulai!</p>
+<hr>
+<h2 id="-membaca-file-teks">📖 Membaca File Teks</h2>
+<p>Anggap kita punya file bernama <code>catatan.txt</code> dengan isi sebagai berikut:</p>
+<p><strong>catatan.txt</strong></p>
+<p>Untuk membaca seluruh isi file ini, kita bisa menggunakan fungsi <code>os.ReadFile()</code>. Fungsi ini sangat praktis karena langsung mengembalikan seluruh konten file dalam bentuk <code>[]byte</code> (slice of bytes).</p>
+<p>Berikut adalah kode lengkapnya:</p>
+<p><strong>main.go</strong></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go" data-lang="go"><span style="display:flex;"><span><span style="color:#f92672">package</span> <span style="color:#a6e22e">main</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">import</span> (
+</span></span><span style="display:flex;"><span>	<span style="color:#e6db74">&#34;fmt&#34;</span>
+</span></span><span style="display:flex;"><span>	<span style="color:#e6db74">&#34;os&#34;</span>
+</span></span><span style="display:flex;"><span>)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">func</span> <span style="color:#a6e22e">main</span>() {
+</span></span><span style="display:flex;"><span>	<span style="color:#75715e">// Membaca file catatan.txt</span>
+</span></span><span style="display:flex;"><span>	<span style="color:#a6e22e">data</span>, <span style="color:#a6e22e">err</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">os</span>.<span style="color:#a6e22e">ReadFile</span>(<span style="color:#e6db74">&#34;catatan.txt&#34;</span>)
+</span></span><span style="display:flex;"><span>	<span style="color:#66d9ef">if</span> <span style="color:#a6e22e">err</span> <span style="color:#f92672">!=</span> <span style="color:#66d9ef">nil</span> {
+</span></span><span style="display:flex;"><span>		<span style="color:#75715e">// Jika file tidak ditemukan atau ada error lain, program akan berhenti</span>
+</span></span><span style="display:flex;"><span>		<span style="color:#a6e22e">fmt</span>.<span style="color:#a6e22e">Println</span>(<span style="color:#e6db74">&#34;Error saat membaca file:&#34;</span>, <span style="color:#a6e22e">err</span>)
+</span></span><span style="display:flex;"><span>		<span style="color:#66d9ef">return</span>
+</span></span><span style="display:flex;"><span>	}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>	<span style="color:#75715e">// &#39;data&#39; adalah []byte, kita ubah menjadi string untuk ditampilkan</span>
+</span></span><span style="display:flex;"><span>	<span style="color:#a6e22e">fmt</span>.<span style="color:#a6e22e">Println</span>(<span style="color:#e6db74">&#34;Isi file:&#34;</span>)
+</span></span><span style="display:flex;"><span>	<span style="color:#a6e22e">fmt</span>.<span style="color:#a6e22e">Println</span>(string(<span style="color:#a6e22e">data</span>))
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div>]]></content></item><item><title>Exploring Filesystem in Golang</title><link>https://chospace.github.io/blog-preview/posts/exploring-filesystem-in-golang/</link><pubDate>Wed, 06 Mar 2019 21:37:39 +0700</pubDate><guid>https://chospace.github.io/blog-preview/posts/exploring-filesystem-in-golang/</guid><description>test note</description><content type="html"><![CDATA[<p>I am currently dabbling in <a href="https://golang.org/">GoLang</a> and trying to get familiar with its syntax and style of programming. I also want to get familiar with the built-in packages for basic tasks without having to google for basic features.</p>
+<p>In this post I will be working my way up to building a simple program that can list the files of a given path to it as a command line argument.</p>
+<hr>
+<h2 id="1-print-to-console">1. Print to console</h2>
+<p>Let’s start with a simple program that can print a statement to the console using the <code>&quot;fmt&quot;</code> package and the <code>&quot;Println()&quot;</code> function.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go" data-lang="go"><span style="display:flex;"><span><span style="color:#f92672">package</span> <span style="color:#a6e22e">main</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">import</span> (
+</span></span><span style="display:flex;"><span>	<span style="color:#e6db74">&#34;fmt&#34;</span>
+</span></span><span style="display:flex;"><span>)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">func</span> <span style="color:#a6e22e">main</span>() {
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">fmt</span>.<span style="color:#a6e22e">Println</span>(<span style="color:#e6db74">&#34;Welcome to Go!&#34;</span>)
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#960050;background-color:#1e0010">#</span>=&gt; <span style="color:#a6e22e">Welcome</span> <span style="color:#a6e22e">to</span> <span style="color:#a6e22e">Go</span>!
+</span></span></code></pre></div><h2 id="2-read-arguments-from-command-line">2. Read arguments from command line</h2>
+<p>Now, let’s learn to read the command line arguments to the program using the <code>&quot;os&quot;</code> package and the Args variable that stores them as an array of strings starting with the program name as the first element.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go" data-lang="go"><span style="display:flex;"><span><span style="color:#f92672">package</span> <span style="color:#a6e22e">main</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">import</span> (
+</span></span><span style="display:flex;"><span>	<span style="color:#e6db74">&#34;fmt&#34;</span>
+</span></span><span style="display:flex;"><span>	<span style="color:#e6db74">&#34;os&#34;</span>
+</span></span><span style="display:flex;"><span>)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">func</span> <span style="color:#a6e22e">main</span>() {
+</span></span><span style="display:flex;"><span>	<span style="color:#66d9ef">if</span> len(<span style="color:#a6e22e">os</span>.<span style="color:#a6e22e">Args</span>) &gt; <span style="color:#ae81ff">1</span> {
+</span></span><span style="display:flex;"><span>		<span style="color:#a6e22e">fmt</span>.<span style="color:#a6e22e">Println</span>(<span style="color:#e6db74">&#34;Arguments:&#34;</span>, <span style="color:#a6e22e">os</span>.<span style="color:#a6e22e">Args</span>[<span style="color:#ae81ff">1</span>])
+</span></span><span style="display:flex;"><span>	} <span style="color:#66d9ef">else</span> {
+</span></span><span style="display:flex;"><span>		<span style="color:#a6e22e">fmt</span>.<span style="color:#a6e22e">Println</span>(<span style="color:#e6db74">&#34;No Arguments provided&#34;</span>)
+</span></span><span style="display:flex;"><span>	}
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span><span style="color:#960050;background-color:#1e0010">#</span>=&gt; <span style="color:#a6e22e">Apurvas</span><span style="color:#f92672">-</span><span style="color:#a6e22e">MacBook</span><span style="color:#f92672">-</span><span style="color:#a6e22e">Pro</span>:<span style="color:#a6e22e">OSManipulation</span> <span style="color:#a6e22e">apurva</span><span style="color:#960050;background-color:#1e0010">$</span> <span style="color:#66d9ef">go</span> <span style="color:#a6e22e">run</span> <span style="color:#a6e22e">CommandLineArgs</span>.<span style="color:#66d9ef">go</span> <span style="color:#a6e22e">Hello</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">Arguments</span>: <span style="color:#a6e22e">Hello</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#960050;background-color:#1e0010">#</span>=&gt; <span style="color:#a6e22e">Apurvas</span><span style="color:#f92672">-</span><span style="color:#a6e22e">MacBook</span><span style="color:#f92672">-</span><span style="color:#a6e22e">Pro</span>:<span style="color:#a6e22e">OSManipulation</span> <span style="color:#a6e22e">apurva</span><span style="color:#960050;background-color:#1e0010">$</span> <span style="color:#66d9ef">go</span> <span style="color:#a6e22e">run</span> <span style="color:#a6e22e">CommandLineArgs</span>.<span style="color:#66d9ef">go</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">No</span> <span style="color:#a6e22e">Arguments</span> <span style="color:#a6e22e">provided</span>
+</span></span></code></pre></div><h2 id="3-traversing-the-listings-of-a-path">3. Traversing the listings of a path</h2>
+<p>Finally, we need to be able to discover all the file/directory listings for a given path passed as a command line argument.</p>
+<p>This can be conveniently achieved using the ReadDir() function of the &ldquo;io/ioutil&rdquo; package.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go" data-lang="go"><span style="display:flex;"><span><span style="color:#f92672">package</span> <span style="color:#a6e22e">main</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">import</span> (
+</span></span><span style="display:flex;"><span>	<span style="color:#e6db74">&#34;fmt&#34;</span>
+</span></span><span style="display:flex;"><span>	<span style="color:#e6db74">&#34;io/ioutil&#34;</span>
+</span></span><span style="display:flex;"><span>	<span style="color:#e6db74">&#34;os&#34;</span>
+</span></span><span style="display:flex;"><span>)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">func</span> <span style="color:#a6e22e">main</span>() {
+</span></span><span style="display:flex;"><span>	<span style="color:#66d9ef">var</span> <span style="color:#a6e22e">files</span> []<span style="color:#a6e22e">os</span>.<span style="color:#a6e22e">FileInfo</span>
+</span></span><span style="display:flex;"><span>	<span style="color:#66d9ef">var</span> <span style="color:#a6e22e">err</span> <span style="color:#66d9ef">error</span>
+</span></span><span style="display:flex;"><span>	<span style="color:#66d9ef">if</span> len(<span style="color:#a6e22e">os</span>.<span style="color:#a6e22e">Args</span>) &gt; <span style="color:#ae81ff">1</span> {
+</span></span><span style="display:flex;"><span>		<span style="color:#a6e22e">files</span>, <span style="color:#a6e22e">err</span> = <span style="color:#a6e22e">ioutil</span>.<span style="color:#a6e22e">ReadDir</span>(<span style="color:#a6e22e">os</span>.<span style="color:#a6e22e">Args</span>[<span style="color:#ae81ff">1</span>])
+</span></span><span style="display:flex;"><span>	} <span style="color:#66d9ef">else</span> {
+</span></span><span style="display:flex;"><span>		<span style="color:#a6e22e">files</span>, <span style="color:#a6e22e">err</span> = <span style="color:#a6e22e">ioutil</span>.<span style="color:#a6e22e">ReadDir</span>(<span style="color:#e6db74">&#34;.&#34;</span>)
+</span></span><span style="display:flex;"><span>	}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>	<span style="color:#66d9ef">if</span> <span style="color:#a6e22e">err</span> <span style="color:#f92672">!=</span> <span style="color:#66d9ef">nil</span> {
+</span></span><span style="display:flex;"><span>		<span style="color:#a6e22e">fmt</span>.<span style="color:#a6e22e">Println</span>(<span style="color:#e6db74">&#34;Err &#34;</span>, <span style="color:#a6e22e">err</span>)
+</span></span><span style="display:flex;"><span>	}
+</span></span><span style="display:flex;"><span>	<span style="color:#66d9ef">for</span> <span style="color:#a6e22e">_</span>, <span style="color:#a6e22e">file</span> <span style="color:#f92672">:=</span> <span style="color:#66d9ef">range</span> <span style="color:#a6e22e">files</span> {
+</span></span><span style="display:flex;"><span>		<span style="color:#a6e22e">fmt</span>.<span style="color:#a6e22e">Print</span>(<span style="color:#a6e22e">file</span>.<span style="color:#a6e22e">Mode</span>())
+</span></span><span style="display:flex;"><span>		<span style="color:#a6e22e">fmt</span>.<span style="color:#a6e22e">Print</span>(<span style="color:#e6db74">&#34; &#34;</span>, <span style="color:#a6e22e">file</span>.<span style="color:#a6e22e">Size</span>())
+</span></span><span style="display:flex;"><span>		<span style="color:#a6e22e">fmt</span>.<span style="color:#a6e22e">Print</span>(<span style="color:#e6db74">&#34; &#34;</span>, <span style="color:#a6e22e">file</span>.<span style="color:#a6e22e">Name</span>())
+</span></span><span style="display:flex;"><span>		<span style="color:#a6e22e">fmt</span>.<span style="color:#a6e22e">Println</span>()
+</span></span><span style="display:flex;"><span>	}
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>🤓 Exploring further into <code>&quot;fmt&quot;</code>, <code>&quot;os&quot;</code>, <code>&quot;io/ioutil&quot;</code> to recreate an implementation of the <code>&quot;ls&quot;</code> unix utility is left as an exercise for the reader.</p>
+]]></content></item><item><title>Cara web ini di buat!</title><link>https://chospace.github.io/blog-preview/posts/buat-web-ini/</link><pubDate>Fri, 23 Feb 2018 14:59:54 +0700</pubDate><guid>https://chospace.github.io/blog-preview/posts/buat-web-ini/</guid><description>Kenapa bikin web ini? Gimana caranya? (karena ada yg nanya✌️)</description><content type="html"><![CDATA[<h2 id="kenapa-bikin-web-ini">Kenapa Bikin Web Ini?</h2>
+<p>Sebenarnya sih&hellip; <strong>nggak ada alasan yang terlalu keren</strong>.
+Cuma pengen punya tempat buat nulis sambat, random, dan kadang-kadang sok produktif.</p>
+<hr>
+<h2 id="stack-yang-dipakai">Stack yang Dipakai</h2>
+<ul>
+<li><strong><a href="https://gohugo.io/">Hugo</a></strong> → Mesin roket buat bikin web statis. Super cepat!</li>
+<li><strong><a href="https://dev.to/cloudcannon/fifty-of-2022s-most-popular-hugo-themes-5foi?comments_sort=top">Fifty of 2022&rsquo;s most popular Hugo themes</a></strong> → Baju yg bebas lo pilih, gw pribadi suka <strong><a href="https://github.com/adityatelange/hugo-PaperMod">PaperMod</a></strong> dan <strong><a href="https://github.com/rhazdon/hugo-theme-hello-friend-ng">Hello Friend NG</a></strong> karena minimalsi dan clean aja.</li>
+<li><strong><a href="https://git-scm.com/">Git</a></strong> → Mesin waktu buat ngelacak semua perubahan kode.</li>
+<li><strong><a href="https://pages.github.com/">GitHub Pages</a></strong> → Lahan gratis buat nerbitin web kita. Mantap!</li>
+<li><strong>PowerShell / Terminal</strong> → Tongkat sihir buat ngasih perintah ke komputer.</li>
+<li><strong>VS Code</strong> → Bengkel buat ngedit dan ngerakit semua filenya.</li>
+</ul>
+<hr>
+<h2 id="kenapa-hugo">Kenapa Hugo?</h2>
+<ul>
+<li><strong>Ngebut parah!</strong> Build situs cuma kedipan mata (detik, bukan menit).</li>
+<li><strong>Nulisnya santai.</strong> Cuma pakai Markdown, kayak ngetik di Notepad.</li>
+<li><strong>Banyak &ldquo;baju&rdquo; gratis.</strong> Temanya bejibun dan bisa dimodif sesuka hati.</li>
+<li><strong>Sekalian belajar ngoding ringan.</strong> Punya web keren sambil ngasah skill? Kenapa enggak!</li>
+</ul>
+<hr>
+<h2 id="gimana-cara-bikinnya-versi-kilat-">Gimana Cara Bikinnya? (Versi Kilat ⚡)</h2>
+<p>Tertarik bikin juga? Tenang, nggak sesusah itu kok. Anggap aja lagi ngerakit Tamiya.</p>
+<h3 id="persiapan-awal-modal-wajib"><strong>Persiapan Awal (Modal Wajib)</strong></h3>
+<ol>
+<li><strong>Install Hugo:</strong> Kunjungi <a href="https://gohugo.io/installation/">situs resminya</a> dan ikuti petunjuk buat OS kamu.</li>
+<li><strong>Install Git:</strong> Ini juga wajib. Ambil dari <a href="https://git-scm.com/downloads/">website Git</a>.</li>
+<li><strong>Punya Akun GitHub:</strong> Kalau belum punya, daftar dulu. Gratis!</li>
+</ol>
+<h3 id="langkah-langkah-ajaib"><strong>Langkah-langkah Ajaib</strong></h3>
+<ol>
+<li>
+<p><strong>Bikin &ldquo;Kerangka&rdquo; Situs:</strong> Buka terminal, terus jalanin perintah ini:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>hugo new site nama-web-keren-kamu
+</span></span><span style="display:flex;"><span>cd nama-web-keren-kamu
+</span></span></code></pre></div></li>
+<li>
+<p><strong>Pasang Tema (Biar Cakep):</strong> Kita pakai PaperMod kayak web ini ya. Caranya gampang, tinggal &ldquo;kloning&rdquo; tema ke dalam folder web kamu.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git init
+</span></span><span style="display:flex;"><span>git submodule add <span style="color:#f92672">[</span>https://github.com/adityatelange/hugo-PaperMod.git<span style="color:#f92672">](</span>https://github.com/adityatelange/hugo-PaperMod.git<span style="color:#f92672">)</span> themes/PaperMod
+</span></span></code></pre></div></li>
+<li>
+<p><strong>Aktifin Temanya:</strong> Buka file <code>hugo.toml</code> (atau <code>config.toml</code>) terus tambahin baris ini di paling bawah:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-toml" data-lang="toml"><span style="display:flex;"><span><span style="color:#a6e22e">theme</span> = <span style="color:#e6db74">&#34;PaperMod&#34;</span>
+</span></span></code></pre></div><p>Jangan lupa atur juga <code>baseURL</code> di file yang sama jadi alamat GitHub Pages kamu nanti (contoh: <code>&quot;https://username.github.io/&quot;</code>).</p>
+</li>
+<li>
+<p><strong>Bikin Postingan Pertama:</strong> Waktunya nulis!</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>hugo new content posts/postingan-pertamaku.md
+</span></span></code></pre></div><p>Sekarang buka file <code>.md</code> yang baru dibuat di folder <code>content/posts/</code> dan mulai tulis sesukamu. Jangan lupa ubah <code>draft: true</code> jadi <code>draft: false</code> kalau sudah siap tayang.</p>
+</li>
+<li>
+<p><strong>Terbangin ke GitHub! 🚀</strong></p>
+<ul>
+<li>Buat repository baru di GitHub. Kasih nama <code>username.github.io</code> (ganti <code>username</code> dengan username GitHub kamu).</li>
+<li>Kembali ke terminal, di dalam folder web kamu, jalanin perintah ini satu per satu:</li>
+</ul>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#75715e"># Perintah buat ngerakit semua file jadi web statis</span>
+</span></span><span style="display:flex;"><span>hugo
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Masuk ke folder public (hasil rakitan)</span>
+</span></span><span style="display:flex;"><span>cd public
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Upload ke GitHub</span>
+</span></span><span style="display:flex;"><span>git init
+</span></span><span style="display:flex;"><span>git add .
+</span></span><span style="display:flex;"><span>git commit -m <span style="color:#e6db74">&#34;Yeah! Website pertama gue live!&#34;</span>
+</span></span><span style="display:flex;"><span>git branch -M main
+</span></span><span style="display:flex;"><span>git remote add origin <span style="color:#f92672">[</span>https://github.com/username/username.github.io.git<span style="color:#f92672">](</span>https://github.com/username/username.github.io.git<span style="color:#f92672">)</span>
+</span></span><span style="display:flex;"><span>git push -u origin main
+</span></span></code></pre></div></li>
+</ol>
+<p><strong>Voila!</strong> Tunggu beberapa menit, dan coba akses <code>https://username.github.io</code>. Kalau semua lancar, website kamu udah mejeng di internet!</p>
+<hr>
+<h2 id="rencana-ke-depan">Rencana ke Depan</h2>
+<ul>
+<li>Nulis lebih rajin (semoga).</li>
+</ul>
+]]></content></item><item><title>Bitcoin: Antara Kegilaan dan Visi Masa Depan</title><link>https://chospace.github.io/blog-preview/posts/bitcoin/</link><pubDate>Sat, 30 Dec 2017 23:32:02 +0700</pubDate><guid>https://chospace.github.io/blog-preview/posts/bitcoin/</guid><description>Dari “andai saja” Rp 1 juta jadi Rp 15 miliar, refleksi ini melihat Bitcoin bukan hanya soal harga naik-turun, tapi juga ide gila tentang uang tanpa negara. Heroik sekaligus anarkis, Bitcoin adalah cermin zaman yang menunjukkan bagaimana teknologi bisa mengguncang tatanan ekonomi global.</description><content type="html"><![CDATA[<p>Kadang saya suka membayangkan hal-hal “andai saja”. Misalnya, kalau pada tahun 2011 saya nekat menaruh Rp 1 juta ke Bitcoin. Saat itu harganya hanya sekitar USD 1 per koin. Enam tahun kemudian, di 2017, nilainya melonjak jadi sekitar USD 15.000. Artinya, Rp 1 juta saya bisa berubah jadi Rp 15 miliar. Kaya mendadak hanya karena keberanian mengambil risiko.<br>
+Tapi ya begitulah hidup. Kita selalu sadar setelah semua peluang lewat. Dari situ saya mulai merenung: apakah Bitcoin hanya sekadar kegilaan massal? Atau sebenarnya ada sesuatu yang jenius di baliknya?</p>
+<h3 id="ide-yang-heroik-sekaligus-anarkis">Ide yang Heroik sekaligus Anarkis</h3>
+<p>Bagi saya, Bitcoin adalah ide nekat yang lahir di momen yang tepat. Bayangkan: uang yang tidak punya negara, tidak diatur bank sentral, nilainya sama di mana pun di dunia. Itu terdengar gila, tapi justru kegilaan itu yang membuat saya kagum.<br>
+Sejak kecil, kita dicekokin konsep bahwa uang ya rupiah, dolar, atau yen—dan semuanya dikontrol otoritas negara. Lalu tiba-tiba muncul sosok misterius bernama Satoshi Nakamoto yang bilang: “Kenapa kita tidak bikin uang digital global yang tidak bisa dikendalikan siapa pun?”<br>
+Di titik ini, Bitcoin terlihat heroik sekaligus anarkis. Heroik karena visinya mulia: membuat transaksi dunia lebih mudah, murah, dan inklusif. Anarkis karena jika benar-benar berhasil, sistem moneter global yang sudah mapan bisa jungkir balik.</p>
+<h3 id="hukum-supply-dan-demand">Hukum Supply dan Demand</h3>
+<p>Saya bukan ekonom, tapi hukum supply-demand itu sederhana. Barang berlimpah → harga turun. Barang langka tapi diinginkan banyak orang → harga naik.<br>
+Bitcoin jelas bermain di logika itu. Supply-nya terbatas: maksimal hanya 21 juta unit. Sekarang pun baru belasan juta yang beredar. Sama seperti emas, makin lama makin sulit “ditambang”, makin langka, dan makin mahal.<br>
+Bagian ini bikin saya kagum: seolah-olah Satoshi bukan cuma menciptakan teknologi, tapi juga merancang sebuah “ekonomi kecil” dengan hukum mainnya sendiri.</p>
+<h3 id="demand-nyata-atau-sekadar-spekulasi">Demand: Nyata atau Sekadar Spekulasi?</h3>
+<p>Pertanyaan yang selalu menghantui saya: apakah permintaan Bitcoin benar-benar nyata, atau hanya spekulasi orang-orang yang takut ketinggalan tren?<br>
+Kalau demand itu nyata, potensinya mengerikan. Bayangkan: total transaksi keuangan global nilainya sekitar USD 100 triliun. Jika Bitcoin hanya mengambil 1% saja, nilainya sudah USD 1 triliun. Dibagi ke sekitar 16 juta koin, itu berarti satu Bitcoin bisa bernilai lebih dari USD 60.000.<br>
+Di 2017, harga Bitcoin baru USD 15.000. Jadi wajar kalau banyak orang percaya bahwa harganya masih bisa melesat jauh.</p>
+<h3 id="dunia-yang-bergerak-ke-arah-cashless">Dunia yang Bergerak ke Arah Cashless</h3>
+<p>Hal lain yang bikin saya ngeri sekaligus kagum adalah tren menuju masyarakat tanpa uang tunai. Di China, bahkan pengemis pun sudah menerima donasi lewat QR code. Banyak toko online global mulai membuka opsi pembayaran dengan Bitcoin.<br>
+Saya jadi membayangkan: bagaimana kalau suatu hari kita tidak perlu lagi rupiah, dolar, atau euro? Semua transaksi langsung pakai mata uang digital. Satu standar global.<br>
+Indah, tapi juga menakutkan. Karena kalau itu terjadi, otoritas moneter negara bisa kehilangan kendali.</p>
+<h3 id="refleksi">Refleksi</h3>
+<p>Bagi saya, Bitcoin bukan sekadar soal harga yang naik-turun. Ia lebih seperti cermin zaman. Kita hidup di era di mana teknologi bisa tiba-tiba mengguncang tatanan yang sudah berdiri ribuan tahun.<br>
+Apakah Bitcoin akan benar-benar jadi mata uang global? Atau sekadar fatamorgana yang pada akhirnya runtuh? Saya tidak tahu.<br>
+Yang saya tahu, Bitcoin sudah mengajarkan satu hal penting: dunia berubah lebih cepat daripada yang bisa kita bayangkan. Dan mungkin, entah kita suka atau tidak, suatu hari kita semua akan hidup di dunia tanpa uang kertas. Hanya deretan angka digital.<br>
+Entah itu Bitcoin, atau sesuatu yang lahir setelahnya.</p>
+]]></content></item><item><title>First Post!</title><link>https://chospace.github.io/blog-preview/posts/first-post/</link><pubDate>Sat, 22 Apr 2017 19:26:33 +0700</pubDate><guid>https://chospace.github.io/blog-preview/posts/first-post/</guid><description>Selamat Datang.. 🙏</description><content type="html"><![CDATA[<p>Selamat datang di <strong>/chospace</strong>.<br>
+Sebelum lanjut baca, izinkan saya kasih peringatan penting:</p>
+<blockquote>
+<p>Jangan berharap apa-apa.<br>
+Di sini saya cuma mau sambat.</p>
+</blockquote>
+<p>Tidak ada janji tips teknologi setiap minggu,<br>
+tidak ada janji cerita yang selalu happy ending,<br>
+tapi ada kemungkinan besar kamu akan menemukan:</p>
+<ul>
+<li>Keluhan random tanpa solusi</li>
+<li>Humor receh yang tidak semua orang mengerti</li>
+<li>Cerita debugging yang bikin pengen tutup laptop</li>
+</ul>
+<p>Kalau kamu kuat mental, silakan lanjut.<br>
+Kalau tidak&hellip; ya sudah, tetap lanjut aja, biar kita sambat bareng.</p>
+]]></content></item></channel></rss>
